@@ -119,7 +119,7 @@ export const projects = [
     ],
 
     image: courses,
-    live_demo_link: "https://technomasr-curseszone.surge.sh/",
+    live_demo_link: "https://technomasr-curseszone-z5s8.vercel.app/",
     source_code_link: "https://github.com/Amr-Atef1/technomasr-curseszone",
   },
   {
@@ -164,7 +164,7 @@ export const projects = [
       },
     ],
     image: athar,
-    live_demo_link: "https://athar66.surge.sh",
+    live_demo_link: "https://athar-pi.vercel.app/",
     source_code_link: "https://github.com/Amr-Atef1/athar",
   },
   {
@@ -186,7 +186,7 @@ export const projects = [
       },
     ],
     image: fitness,
-    live_demo_link: "https://fitness-app66.surge.sh",
+    live_demo_link: "https://fitness-app-phi-rose.vercel.app/",
     source_code_link: "https://github.com/Amr-Atef1/fitness_app",
   },
   {
@@ -208,7 +208,7 @@ export const projects = [
       },
     ],
     image: youtube,
-    live_demo_link: "https://youtube-clone66.surge.sh",
+    live_demo_link: "https://youtube-clone-ten-navy-43.vercel.app/",
     source_code_link: "https://github.com/Amr-Atef1/youtube-clone",
   },
   {
