@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   assetsInclude: ['**/*.JPG'],
-  base: './',
+  base: process.env.VITE_BASE_PATH || "/Amr-Portfolio",
 })
