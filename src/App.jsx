@@ -1,7 +1,7 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
-import Hero from "./components/hero";
-import Technologies from "./components/technologies";
+import Hero from "./components/Hero";
+import Technologies from "./components/Technologies";
 import Experience from "./components/Experience";
 import About from "./components/About";
 import Project from "./components/Project";
